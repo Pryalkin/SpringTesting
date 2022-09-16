@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586a1493-583f-44f0-8992-5746c77d24b7" name="Changes" comment="second testing Spring">
-      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/TestComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="586a1493-583f-44f0-8992-5746c77d24b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/EngineInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_09_2022_3_13__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_09_2022_3_13__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/constructors/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constructors/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constructors/Transmision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constructors/Transmision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constructors/MotoBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constructors/MotoBike.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring/constructor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/constructor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/constructors/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructors/Engine.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/constructors/MotoBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructors/MotoBike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constructors/Transmision.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructors/Transmision.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/spring/constructor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/constructor.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="spring-beans.schema" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="bean2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +64,20 @@
       <recent name="D:\БГУИР\Курс Ylab\SpringTesting\src\main\java\hello" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestComponent">
+  <component name="RunManager" selected="Application.AppConstructors">
+    <configuration name="AppConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.AppConstructors" />
+      <module name="SpringTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="penetration.AppTest" />
       <module name="SpringTesting" />
@@ -73,14 +87,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWordCommandLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.HelloWordCommandLine" />
-      <module name="SpringTesting" />
-      <option name="PROGRAM_PARAMETERS" value="Hello_word!!!" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,19 +119,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWordCommandLine" />
       <item itemvalue="Application.HelloWordDecoupledWithFactory" />
       <item itemvalue="Application.HelloWordSpring" />
       <item itemvalue="Application.AppTest" />
       <item itemvalue="Application.TestComponent" />
+      <item itemvalue="Application.AppConstructors" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppConstructors" />
         <item itemvalue="Application.TestComponent" />
         <item itemvalue="Application.AppTest" />
         <item itemvalue="Application.HelloWordSpring" />
         <item itemvalue="Application.HelloWordDecoupledWithFactory" />
-        <item itemvalue="Application.HelloWordCommandLine" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +185,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
