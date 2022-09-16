@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="586a1493-583f-44f0-8992-5746c77d24b7" name="Changes" comment="second testing Spring">
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/TestComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constructors/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constructors/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constructors/Transmision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constructors/Transmision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/constructor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/constructor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constructors/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructors/Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constructors/MotoBike.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructors/MotoBike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/constructors/Transmision.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constructors/Transmision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/constructor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/constructor.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="bean2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ElgY7zXDJS4QjMpICjXGApBBqo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ylab" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="constructors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\БГУИР\Курс Ylab\SpringTesting\src\main\java\hello" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestComponent">
+    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="penetration.AppTest" />
+      <module name="SpringTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="penetration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWordCommandLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.HelloWordCommandLine" />
+      <module name="SpringTesting" />
+      <option name="PROGRAM_PARAMETERS" value="Hello_word!!!" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWordDecoupledWithFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.HelloWordDecoupledWithFactory" />
+      <module name="SpringTesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWordSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.HelloWordSpring" />
+      <module name="SpringTesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestComponent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.TestComponent" />
+      <module name="SpringTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWordCommandLine" />
+      <item itemvalue="Application.HelloWordDecoupledWithFactory" />
+      <item itemvalue="Application.HelloWordSpring" />
+      <item itemvalue="Application.AppTest" />
+      <item itemvalue="Application.TestComponent" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestComponent" />
+        <item itemvalue="Application.AppTest" />
+        <item itemvalue="Application.HelloWordSpring" />
+        <item itemvalue="Application.HelloWordDecoupledWithFactory" />
+        <item itemvalue="Application.HelloWordCommandLine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="586a1493-583f-44f0-8992-5746c77d24b7" name="Changes" comment="" />
+      <created>1663175632304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663175632304</updated>
+      <workItem from="1663175633605" duration="2900000" />
+      <workItem from="1663195918560" duration="3562000" />
+      <workItem from="1663252206532" duration="7128000" />
+      <workItem from="1663282872199" duration="4294000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1663283150546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663283150547</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first testing Spring">
+      <created>1663283388912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663283388912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second testing Spring">
+      <created>1663285178591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663285178591</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="first testing Spring" />
+    <MESSAGE value="second testing Spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="second testing Spring" />
+  </component>
+</project>

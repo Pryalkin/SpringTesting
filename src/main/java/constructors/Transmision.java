@@ -1,11 +1,14 @@
 package constructors;
 
-public class Transmision {
-    private String name;
+import org.springframework.stereotype.Component;
 
-    public Transmision(String name) {
-        this.name = name;
-    }
+@Component
+public class Transmision {
+    private String name = "Wheel";
+
+//    public Transmision(String name) {
+//        this.name = name;
+//    }
 
     @Override
     public String toString() {
