@@ -1,14 +1,18 @@
 package constructors;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
 
-@Component
-public class Engine {
-    private String name = "BMW";
+@Component("engine")
+@PropertySource("classpath:modelCar.properties")
+public class Engine implements EngineInterface{
+    private String name;
 
-//    public Engine(String name) {
-//        this.name = name;
-//    }
+    public Engine(@Value("${model.device:some value}") String name) {
+        this.name = name;
+    }
 
     @Override
     public String toString() {
