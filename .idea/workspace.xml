@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586a1493-583f-44f0-8992-5746c77d24b7" name="Changes" comment="testing Spring">
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/AnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/annotation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_09_2022_5_46__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_09_2022_5_46__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/BeanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/BeanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Tiger.class" afterDir="false" />
-    </list>
+    <list default="true" id="586a1493-583f-44f0-8992-5746c77d24b7" name="Changes" comment="testing Spring part 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663285178591</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testing Spring part 3">
+      <created>1663522672618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663522672618</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +202,7 @@
     <MESSAGE value="first testing Spring" />
     <MESSAGE value="second testing Spring" />
     <MESSAGE value="testing Spring part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing Spring part 2" />
+    <MESSAGE value="testing Spring part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing Spring part 3" />
   </component>
 </project>
